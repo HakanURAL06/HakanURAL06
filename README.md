@@ -25,14 +25,6 @@ I am a **Management and Information Systems (MIS)** student at **Istanbul Univer
 ### 🎨 Creative Corner
 When I'm not writing code, I'm designing. I specialize in crafting **minimalist and impactful logos** for digital products. I combine my technical background with a creative eye to ensure every project has a unique visual signature.
 
----
-
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HakanURAL06&show_icons=true&theme=tokyonight&count_private=true" alt="Hakan's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakanURAL06&theme=tokyonight" alt="Hakan's Streak" />
-</p>
 
 ---
 
