@@ -59,5 +59,5 @@ and **visual presentation** within practical applications.
 
 - **GitHub:** This profile  
 - **LinkedIn:** [Hakan Ural](https://www.linkedin.com/in/hakan-ural-523019382/)  
-- **Email:** urallhakan06@gmail.com  
+- **Email:** hakanu0615@gmail.com 
 - **Location:** Istanbul, Turkey 🇹🇷
